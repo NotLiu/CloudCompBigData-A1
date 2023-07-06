@@ -1,0 +1,500 @@
+{"index": {"_index": "restaurants", "_id": "0"}}
+{"recID": "26856", "businessID": "qLJYqqj9vu0sdBJsxQKYjQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "1"}}
+{"recID": "26928", "businessID": "MctQwL9Mp5X7DJk13VoERg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "2"}}
+{"recID": "27074", "businessID": "LQHegfNHe7ylY3bocrFlpg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "3"}}
+{"recID": "26971", "businessID": "QxDdGjCKz7WZcQ7sBmXcuw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "4"}}
+{"recID": "26970", "businessID": "GuzlMBKNoClNx5I1-x-DDg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "5"}}
+{"recID": "26848", "businessID": "NN3mOWF5e_pnR1ArqM2bHQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "6"}}
+{"recID": "27044", "businessID": "5F9kZPnAleDYqCeCyvGJPA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "7"}}
+{"recID": "27033", "businessID": "sRWRA4dcN_NR1JGpuRVouA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "8"}}
+{"recID": "27027", "businessID": "f4QBa0khsF9Ut99Tc9IMIA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "9"}}
+{"recID": "27054", "businessID": "DEp-9JVnKN7eTb9A_mUlfA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "10"}}
+{"recID": "27079", "businessID": "x8slUOJxMX2EJ0YUU0rrSg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "11"}}
+{"recID": "27062", "businessID": "xP-c8eSGQpmegsPooqdi5w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "12"}}
+{"recID": "26983", "businessID": "x8slUOJxMX2EJ0YUU0rrSg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "13"}}
+{"recID": "26872", "businessID": "lxHKbp0hReRBPZcq4fUUow", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "14"}}
+{"recID": "27095", "businessID": "ErJ0cbHUxOozl0sz_3wl5A", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "15"}}
+{"recID": "26973", "businessID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "16"}}
+{"recID": "26865", "businessID": "xP-c8eSGQpmegsPooqdi5w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "17"}}
+{"recID": "26987", "businessID": "mqaSFe9PL_10NsCNnGSo_g", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "18"}}
+{"recID": "26867", "businessID": "Lk3i0mZvzBBYts6BMOozDw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "19"}}
+{"recID": "27015", "businessID": "iGmQlzlI4g2ky8cogfDpnQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "20"}}
+{"recID": "27045", "businessID": "s5N-w7EPY3DA68id5qycyA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "21"}}
+{"recID": "26963", "businessID": "22nKUyCIbpnzR6R3_g1ptQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "22"}}
+{"recID": "26905", "businessID": "hkooeEkd3oPsLD6JJrYpjA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "23"}}
+{"recID": "26958", "businessID": "bEloKDe-QVkwakAwmFKbbA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "24"}}
+{"recID": "27058", "businessID": "Me4TxTbPPQZQopW1wOGx5g", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "25"}}
+{"recID": "27035", "businessID": "gEaZtaUQyGsp-O4AVcJWeg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "26"}}
+{"recID": "26939", "businessID": "mqaSFe9PL_10NsCNnGSo_g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "27"}}
+{"recID": "26975", "businessID": "sRWRA4dcN_NR1JGpuRVouA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "28"}}
+{"recID": "26984", "businessID": "11Nbr2oTRB5Uqi36L8if8g", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "29"}}
+{"recID": "26881", "businessID": "AA9wpuJRhkSHUePAiv3otA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "30"}}
+{"recID": "26854", "businessID": "DEp-9JVnKN7eTb9A_mUlfA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "31"}}
+{"recID": "26913", "businessID": "xTwzk3lh7tE2GFiVQop1kg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "32"}}
+{"recID": "27007", "businessID": "qm1J_dPA5IHij1oAnoZwHw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "33"}}
+{"recID": "26979", "businessID": "qnkdR4GDnQ7b-jDAfD5HUg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "34"}}
+{"recID": "26893", "businessID": "lSKEPxxTYxCN9oi6CXRmcQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "35"}}
+{"recID": "27012", "businessID": "Me4TxTbPPQZQopW1wOGx5g", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "36"}}
+{"recID": "27069", "businessID": "1LIptXhtDh58vAA-QPFL4w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "37"}}
+{"recID": "26858", "businessID": "gZz9A8k8ORC_xl0aHxtY4w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "38"}}
+{"recID": "26962", "businessID": "xTwzk3lh7tE2GFiVQop1kg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "39"}}
+{"recID": "26880", "businessID": "7Qvh0oFRsoqrO9qNlcMKXQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "40"}}
+{"recID": "26876", "businessID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "41"}}
+{"recID": "27083", "businessID": "mqaSFe9PL_10NsCNnGSo_g", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "42"}}
+{"recID": "26902", "businessID": "xZ96vaoL-cQjfotmUKtjJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "43"}}
+{"recID": "27075", "businessID": "WyiTT3VHjzowMnOnUpZ7TQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "44"}}
+{"recID": "26974", "businessID": "lNZzwmJ4VAFX_4TyO_PNUw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "45"}}
+{"recID": "26907", "businessID": "qLJYqqj9vu0sdBJsxQKYjQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "46"}}
+{"recID": "27096", "businessID": "U2EvUcS9KtXDv_Yw3cugiw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "47"}}
+{"recID": "26966", "businessID": "wohLfhl0OqvDzIX50r63aw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "48"}}
+{"recID": "26869", "businessID": "Ig4LSE3TRPs5nSsfTgnniQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "49"}}
+{"recID": "26956", "businessID": "qm1J_dPA5IHij1oAnoZwHw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "50"}}
+{"recID": "26857", "businessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "51"}}
+{"recID": "27003", "businessID": "DEp-9JVnKN7eTb9A_mUlfA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "52"}}
+{"recID": "27089", "businessID": "xTWpl9DgIkkr5B8h8_xUpA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "53"}}
+{"recID": "26919", "businessID": "lxHKbp0hReRBPZcq4fUUow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "54"}}
+{"recID": "26896", "businessID": "fVbUVAiLiGgLA_nxBFxyww", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "55"}}
+{"recID": "26904", "businessID": "WG639VkTjmK5dzydd1BBJA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "56"}}
+{"recID": "27060", "businessID": "fjj5hk9vmfjaxq855OBQXQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "57"}}
+{"recID": "26944", "businessID": "xTWpl9DgIkkr5B8h8_xUpA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "58"}}
+{"recID": "27013", "businessID": "ZjU9qd-RR55cEEKufmdN5Q", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "59"}}
+{"recID": "26957", "businessID": "qLJYqqj9vu0sdBJsxQKYjQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "60"}}
+{"recID": "26995", "businessID": "oRdM7n-AfBPBGAlH4Q0Sag", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "61"}}
+{"recID": "27023", "businessID": "wohLfhl0OqvDzIX50r63aw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "62"}}
+{"recID": "26882", "businessID": "WyiTT3VHjzowMnOnUpZ7TQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "63"}}
+{"recID": "26972", "businessID": "1LIptXhtDh58vAA-QPFL4w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "64"}}
+{"recID": "27031", "businessID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "65"}}
+{"recID": "27046", "businessID": "mqaSFe9PL_10NsCNnGSo_g", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "66"}}
+{"recID": "27078", "businessID": "O1XrvIq-6IlLunLYEjOiFQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "67"}}
+{"recID": "26933", "businessID": "GEbvV8QRegWwF6JQHfsOyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "68"}}
+{"recID": "26900", "businessID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "69"}}
+{"recID": "26954", "businessID": "DEp-9JVnKN7eTb9A_mUlfA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "70"}}
+{"recID": "26945", "businessID": "fVbUVAiLiGgLA_nxBFxyww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "71"}}
+{"recID": "26936", "businessID": "11Nbr2oTRB5Uqi36L8if8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "72"}}
+{"recID": "26886", "businessID": "D_f5cnBPDUueO-CCYHtwPw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "73"}}
+{"recID": "26923", "businessID": "1LIptXhtDh58vAA-QPFL4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "74"}}
+{"recID": "26912", "businessID": "Me4TxTbPPQZQopW1wOGx5g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "75"}}
+{"recID": "26924", "businessID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "76"}}
+{"recID": "27021", "businessID": "Lw044EfH1h3XhUhri3ExfA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "77"}}
+{"recID": "26914", "businessID": "xP-c8eSGQpmegsPooqdi5w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "78"}}
+{"recID": "26887", "businessID": "x8slUOJxMX2EJ0YUU0rrSg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "79"}}
+{"recID": "26996", "businessID": "owYYuyLvlsdjLz68c3SSfg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "80"}}
+{"recID": "26850", "businessID": "krZunArZFdp_2G1arwVuVw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "81"}}
+{"recID": "26901", "businessID": "XsElXaLxUPKquI78poB8yw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "82"}}
+{"recID": "26925", "businessID": "lNZzwmJ4VAFX_4TyO_PNUw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "83"}}
+{"recID": "26892", "businessID": "37xSQ6l3feGBbmoqN84H3g", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "84"}}
+{"recID": "26894", "businessID": "lEH8EUPX3Zn_trHauIycYw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "85"}}
+{"recID": "26932", "businessID": "IAbOg5Kd5AynOcbI8vGTwQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "86"}}
+{"recID": "26866", "businessID": "Lw044EfH1h3XhUhri3ExfA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "87"}}
+{"recID": "27077", "businessID": "GEbvV8QRegWwF6JQHfsOyA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "88"}}
+{"recID": "27057", "businessID": "gZz9A8k8ORC_xl0aHxtY4w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "89"}}
+{"recID": "26937", "businessID": "5F9kZPnAleDYqCeCyvGJPA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "90"}}
+{"recID": "26988", "businessID": "37xSQ6l3feGBbmoqN84H3g", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "91"}}
+{"recID": "27043", "businessID": "11Nbr2oTRB5Uqi36L8if8g", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "92"}}
+{"recID": "27071", "businessID": "sRWRA4dcN_NR1JGpuRVouA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "93"}}
+{"recID": "27024", "businessID": "Ig4LSE3TRPs5nSsfTgnniQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "94"}}
+{"recID": "27005", "businessID": "hkooeEkd3oPsLD6JJrYpjA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "95"}}
+{"recID": "27008", "businessID": "qLJYqqj9vu0sdBJsxQKYjQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "96"}}
+{"recID": "27070", "businessID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "97"}}
+{"recID": "26884", "businessID": "GEbvV8QRegWwF6JQHfsOyA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "98"}}
+{"recID": "26965", "businessID": "Lw044EfH1h3XhUhri3ExfA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "99"}}
+{"recID": "26908", "businessID": "-XYp6w50XbZfS90YddS5ew", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "100"}}
+{"recID": "27085", "businessID": "37xSQ6l3feGBbmoqN84H3g", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "101"}}
+{"recID": "27049", "businessID": "MaoCNdHni6MLjM9iYQqHcg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "102"}}
+{"recID": "26889", "businessID": "3gqKLANaXNsHZnPDjKrcTg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "103"}}
+{"recID": "27086", "businessID": "lSKEPxxTYxCN9oi6CXRmcQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "104"}}
+{"recID": "27047", "businessID": "hdiuRS9sVZSMReZm4oV5SA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "105"}}
+{"recID": "27025", "businessID": "ePqKbqXFBCbwBaWiN2Jo9w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "106"}}
+{"recID": "26935", "businessID": "x8slUOJxMX2EJ0YUU0rrSg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "107"}}
+{"recID": "27082", "businessID": "s5N-w7EPY3DA68id5qycyA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "108"}}
+{"recID": "26964", "businessID": "xP-c8eSGQpmegsPooqdi5w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "109"}}
+{"recID": "26888", "businessID": "11Nbr2oTRB5Uqi36L8if8g", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "110"}}
+{"recID": "27037", "businessID": "Gc7OVEIs4HodL4hw9U3C3w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "111"}}
+{"recID": "26960", "businessID": "gZz9A8k8ORC_xl0aHxtY4w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "112"}}
+{"recID": "27036", "businessID": "MctQwL9Mp5X7DJk13VoERg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "113"}}
+{"recID": "26998", "businessID": "NN3mOWF5e_pnR1ArqM2bHQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "114"}}
+{"recID": "27063", "businessID": "Lw044EfH1h3XhUhri3ExfA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "115"}}
+{"recID": "27034", "businessID": "FcQA5tV8wlz6jg_UK_s7Hw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "116"}}
+{"recID": "27064", "businessID": "wohLfhl0OqvDzIX50r63aw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "117"}}
+{"recID": "26878", "businessID": "sRWRA4dcN_NR1JGpuRVouA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "118"}}
+{"recID": "27052", "businessID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "119"}}
+{"recID": "26986", "businessID": "s5N-w7EPY3DA68id5qycyA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "120"}}
+{"recID": "26849", "businessID": "JYNBy2r3LVhJbLHE1bASfg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "121"}}
+{"recID": "27087", "businessID": "9WQbGNhEj9RxgVFYhR6NOQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "122"}}
+{"recID": "26969", "businessID": "OFfZUS-nu6NDnsWe1B2bUQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "123"}}
+{"recID": "27011", "businessID": "gZz9A8k8ORC_xl0aHxtY4w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "124"}}
+{"recID": "26926", "businessID": "sRWRA4dcN_NR1JGpuRVouA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "125"}}
+{"recID": "26968", "businessID": "lxHKbp0hReRBPZcq4fUUow", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "126"}}
+{"recID": "27040", "businessID": "IAbOg5Kd5AynOcbI8vGTwQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "127"}}
+{"recID": "27016", "businessID": "EuWNk5SJB7wADVHoCtxAqg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "128"}}
+{"recID": "26855", "businessID": "qm1J_dPA5IHij1oAnoZwHw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "129"}}
+{"recID": "26938", "businessID": "s5N-w7EPY3DA68id5qycyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "130"}}
+{"recID": "26949", "businessID": "QPEzLkO35OTYijFhs8d7-w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "131"}}
+{"recID": "26852", "businessID": "X8yEmEDD9ZTkHoIRFqzcRw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "132"}}
+{"recID": "26946", "businessID": "ogCC-lJJYnwXDvKGmKZ6Sw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "133"}}
+{"recID": "26989", "businessID": "lSKEPxxTYxCN9oi6CXRmcQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "134"}}
+{"recID": "27029", "businessID": "QxDdGjCKz7WZcQ7sBmXcuw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "135"}}
+{"recID": "26959", "businessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "136"}}
+{"recID": "27073", "businessID": "MctQwL9Mp5X7DJk13VoERg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "137"}}
+{"recID": "26991", "businessID": "q1uIqB8PvyCCX8TajaRYBg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "138"}}
+{"recID": "26982", "businessID": "GEbvV8QRegWwF6JQHfsOyA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "139"}}
+{"recID": "27009", "businessID": "-XYp6w50XbZfS90YddS5ew", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "140"}}
+{"recID": "26861", "businessID": "iGmQlzlI4g2ky8cogfDpnQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "141"}}
+{"recID": "26942", "businessID": "lEH8EUPX3Zn_trHauIycYw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "142"}}
+{"recID": "27006", "businessID": "zX8IF7oCbw1HrNaPmOBy-g", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "143"}}
+{"recID": "26917", "businessID": "Ig4LSE3TRPs5nSsfTgnniQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "144"}}
+{"recID": "27032", "businessID": "lNZzwmJ4VAFX_4TyO_PNUw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "145"}}
+{"recID": "26899", "businessID": "krZunArZFdp_2G1arwVuVw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "146"}}
+{"recID": "26853", "businessID": "xZ96vaoL-cQjfotmUKtjJQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "147"}}
+{"recID": "27076", "businessID": "IAbOg5Kd5AynOcbI8vGTwQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "148"}}
+{"recID": "27038", "businessID": "WyiTT3VHjzowMnOnUpZ7TQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "149"}}
+{"recID": "26875", "businessID": "1LIptXhtDh58vAA-QPFL4w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "150"}}
+{"recID": "26895", "businessID": "xTWpl9DgIkkr5B8h8_xUpA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "151"}}
+{"recID": "27030", "businessID": "1LIptXhtDh58vAA-QPFL4w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "152"}}
+{"recID": "26980", "businessID": "nMyot99PkX5iYCdxHoRJqQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "153"}}
+{"recID": "26891", "businessID": "vGS5X12NYXCl8NpynlxRuw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "154"}}
+{"recID": "27080", "businessID": "11Nbr2oTRB5Uqi36L8if8g", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "155"}}
+{"recID": "27072", "businessID": "xQ445GaWVN5Aa3sFX9OoIg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "156"}}
+{"recID": "27091", "businessID": "ogCC-lJJYnwXDvKGmKZ6Sw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "157"}}
+{"recID": "27048", "businessID": "XsXLVWr1UZWVhKThNvNiaA", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "158"}}
+{"recID": "26955", "businessID": "hkooeEkd3oPsLD6JJrYpjA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "159"}}
+{"recID": "26997", "businessID": "hdiuRS9sVZSMReZm4oV5SA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "160"}}
+{"recID": "26978", "businessID": "WyiTT3VHjzowMnOnUpZ7TQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "161"}}
+{"recID": "27053", "businessID": "xZ96vaoL-cQjfotmUKtjJQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "162"}}
+{"recID": "27022", "businessID": "O1fUmxt3kbV-rnyjBtzAfw", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "163"}}
+{"recID": "27088", "businessID": "lEH8EUPX3Zn_trHauIycYw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "164"}}
+{"recID": "26934", "businessID": "D_f5cnBPDUueO-CCYHtwPw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "165"}}
+{"recID": "26863", "businessID": "fjj5hk9vmfjaxq855OBQXQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "166"}}
+{"recID": "26927", "businessID": "FcQA5tV8wlz6jg_UK_s7Hw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "167"}}
+{"recID": "27002", "businessID": "PYmjoid5P-Mw8dkkKxZy6w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "168"}}
+{"recID": "26999", "businessID": "BEYmqrP1_TC0nhnTGKkkJg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "169"}}
+{"recID": "27019", "businessID": "22nKUyCIbpnzR6R3_g1ptQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "170"}}
+{"recID": "27039", "businessID": "nMyot99PkX5iYCdxHoRJqQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "171"}}
+{"recID": "26864", "businessID": "xTwzk3lh7tE2GFiVQop1kg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "172"}}
+{"recID": "26879", "businessID": "-lgNzAEyFr8LCTuBTWnAMg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "173"}}
+{"recID": "27092", "businessID": "AUifp6IDKzmorCM6vY2fug", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "174"}}
+{"recID": "26943", "businessID": "q1uIqB8PvyCCX8TajaRYBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "175"}}
+{"recID": "26870", "businessID": "ePqKbqXFBCbwBaWiN2Jo9w", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "176"}}
+{"recID": "27050", "businessID": "JYNBy2r3LVhJbLHE1bASfg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "177"}}
+{"recID": "26871", "businessID": "nBy8KtcUHktPFKw-VClG1A", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "178"}}
+{"recID": "26976", "businessID": "FcQA5tV8wlz6jg_UK_s7Hw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "179"}}
+{"recID": "26873", "businessID": "GuzlMBKNoClNx5I1-x-DDg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "180"}}
+{"recID": "26985", "businessID": "5F9kZPnAleDYqCeCyvGJPA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "181"}}
+{"recID": "26950", "businessID": "BEYmqrP1_TC0nhnTGKkkJg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "182"}}
+{"recID": "27000", "businessID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "183"}}
+{"recID": "27001", "businessID": "xZ96vaoL-cQjfotmUKtjJQ", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "184"}}
+{"recID": "27081", "businessID": "3gqKLANaXNsHZnPDjKrcTg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "185"}}
+{"recID": "27067", "businessID": "lxHKbp0hReRBPZcq4fUUow", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "186"}}
+{"recID": "26859", "businessID": "Me4TxTbPPQZQopW1wOGx5g", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "187"}}
+{"recID": "27026", "businessID": "lxHKbp0hReRBPZcq4fUUow", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "188"}}
+{"recID": "27041", "businessID": "GEbvV8QRegWwF6JQHfsOyA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "189"}}
+{"recID": "27042", "businessID": "x8slUOJxMX2EJ0YUU0rrSg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "190"}}
+{"recID": "27094", "businessID": "owYYuyLvlsdjLz68c3SSfg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "191"}}
+{"recID": "26909", "businessID": "bEloKDe-QVkwakAwmFKbbA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "192"}}
+{"recID": "27018", "businessID": "xTwzk3lh7tE2GFiVQop1kg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "193"}}
+{"recID": "26922", "businessID": "QxDdGjCKz7WZcQ7sBmXcuw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "194"}}
+{"recID": "27065", "businessID": "Ig4LSE3TRPs5nSsfTgnniQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "195"}}
+{"recID": "27068", "businessID": "QxDdGjCKz7WZcQ7sBmXcuw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "196"}}
+{"recID": "27051", "businessID": "krZunArZFdp_2G1arwVuVw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "197"}}
+{"recID": "26847", "businessID": "hdiuRS9sVZSMReZm4oV5SA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "198"}}
+{"recID": "26874", "businessID": "QxDdGjCKz7WZcQ7sBmXcuw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "199"}}
+{"recID": "26860", "businessID": "xt4sa64WOrpJvZBDPNPNYg", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "200"}}
+{"recID": "26920", "businessID": "OFfZUS-nu6NDnsWe1B2bUQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "201"}}
+{"recID": "26868", "businessID": "wohLfhl0OqvDzIX50r63aw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "202"}}
+{"recID": "26921", "businessID": "GuzlMBKNoClNx5I1-x-DDg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "203"}}
+{"recID": "26897", "businessID": "hdiuRS9sVZSMReZm4oV5SA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "204"}}
+{"recID": "26931", "businessID": "nMyot99PkX5iYCdxHoRJqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "205"}}
+{"recID": "27066", "businessID": "ePqKbqXFBCbwBaWiN2Jo9w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "206"}}
+{"recID": "26941", "businessID": "lSKEPxxTYxCN9oi6CXRmcQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "207"}}
+{"recID": "26993", "businessID": "fVbUVAiLiGgLA_nxBFxyww", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "208"}}
+{"recID": "26915", "businessID": "Lw044EfH1h3XhUhri3ExfA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "209"}}
+{"recID": "27004", "businessID": "WG639VkTjmK5dzydd1BBJA", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "210"}}
+{"recID": "26883", "businessID": "IAbOg5Kd5AynOcbI8vGTwQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "211"}}
+{"recID": "27055", "businessID": "qLJYqqj9vu0sdBJsxQKYjQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "212"}}
+{"recID": "26947", "businessID": "hdiuRS9sVZSMReZm4oV5SA", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "213"}}
+{"recID": "26851", "businessID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "214"}}
+{"recID": "26898", "businessID": "NN3mOWF5e_pnR1ArqM2bHQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "215"}}
+{"recID": "26929", "businessID": "-OixbLnFLCzQclxCSbUQ8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "216"}}
+{"recID": "26903", "businessID": "DEp-9JVnKN7eTb9A_mUlfA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "217"}}
+{"recID": "27056", "businessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "218"}}
+{"recID": "27017", "businessID": "XLEdQl5s1bO5Iu43W_c96Q", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "219"}}
+{"recID": "26906", "businessID": "qm1J_dPA5IHij1oAnoZwHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "220"}}
+{"recID": "26981", "businessID": "IAbOg5Kd5AynOcbI8vGTwQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "221"}}
+{"recID": "27084", "businessID": "vGS5X12NYXCl8NpynlxRuw", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "222"}}
+{"recID": "26862", "businessID": "OAqsZMbjv66nOMqlimnYuQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "223"}}
+{"recID": "26967", "businessID": "ePqKbqXFBCbwBaWiN2Jo9w", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "224"}}
+{"recID": "27059", "businessID": "Rc1lxc5lSKJYd162JHNMfQ", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "225"}}
+{"recID": "26890", "businessID": "s5N-w7EPY3DA68id5qycyA", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "226"}}
+{"recID": "26885", "businessID": "mESab-FqL5QqSVsnX72asQ", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "227"}}
+{"recID": "27090", "businessID": "fVbUVAiLiGgLA_nxBFxyww", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "228"}}
+{"recID": "26994", "businessID": "ogCC-lJJYnwXDvKGmKZ6Sw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "229"}}
+{"recID": "26911", "businessID": "gZz9A8k8ORC_xl0aHxtY4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "230"}}
+{"recID": "27028", "businessID": "GuzlMBKNoClNx5I1-x-DDg", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "231"}}
+{"recID": "27010", "businessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "232"}}
+{"recID": "26953", "businessID": "xZ96vaoL-cQjfotmUKtjJQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "233"}}
+{"recID": "26977", "businessID": "MctQwL9Mp5X7DJk13VoERg", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "234"}}
+{"recID": "26918", "businessID": "ePqKbqXFBCbwBaWiN2Jo9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "235"}}
+{"recID": "27093", "businessID": "oRdM7n-AfBPBGAlH4Q0Sag", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "236"}}
+{"recID": "26990", "businessID": "lEH8EUPX3Zn_trHauIycYw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "237"}}
+{"recID": "26877", "businessID": "lNZzwmJ4VAFX_4TyO_PNUw", "cuisine": "American"}
+{"index": {"_index": "restaurants", "_id": "238"}}
+{"recID": "26952", "businessID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "239"}}
+{"recID": "27014", "businessID": "LHxZgTddXIp_S1sL3nNG9w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "240"}}
+{"recID": "26930", "businessID": "WyiTT3VHjzowMnOnUpZ7TQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "241"}}
+{"recID": "26961", "businessID": "ZjU9qd-RR55cEEKufmdN5Q", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "242"}}
+{"recID": "27061", "businessID": "xTwzk3lh7tE2GFiVQop1kg", "cuisine": "Italian"}
+{"index": {"_index": "restaurants", "_id": "243"}}
+{"recID": "26951", "businessID": "krZunArZFdp_2G1arwVuVw", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "244"}}
+{"recID": "26940", "businessID": "37xSQ6l3feGBbmoqN84H3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "245"}}
+{"recID": "27020", "businessID": "xP-c8eSGQpmegsPooqdi5w", "cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": "246"}}
+{"recID": "26916", "businessID": "wohLfhl0OqvDzIX50r63aw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "247"}}
+{"recID": "26948", "businessID": "NN3mOWF5e_pnR1ArqM2bHQ", "cuisine": "Japanese"}
+{"index": {"_index": "restaurants", "_id": "248"}}
+{"recID": "26910", "businessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": "249"}}
+{"recID": "26992", "businessID": "xTWpl9DgIkkr5B8h8_xUpA", "cuisine": "Japanese"}

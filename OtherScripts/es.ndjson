@@ -1,0 +1,6 @@
+{"index": {"_index": "restaurants", "_id":"1"}}
+{"recID": "2381", "zipCode":"77036"}
+{"index": {"_index": "restaurants", "_id":"2"}}
+{"recID": "22225", "zipCode":"22041"}
+{"index": {"_index": "restaurants", "_id":"3"}}
+{"recID": "12243", "zipCode":"02114"}
